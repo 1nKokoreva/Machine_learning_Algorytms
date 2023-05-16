@@ -1,6 +1,7 @@
 # Masin_lerning_Algorytms
 
-KnnAlgorithm
+# Knn Algorithm
+
 Implement the knn algorithm
 
 The Program should take arguments k, train_file, test_file, where:
@@ -26,3 +27,14 @@ Accuracy: 75.0 %
 
 --------------------------------
 --------------------------------
+
+# K-means Algorithm
+
+Implement the k-mean algorithm.
+The Program should work for any number of attributes that are recognized automatically from the data file.
+
+The Program should be tested on tiris data from the knn project(you can combine a test and training set). Labels from the dataset should be omitted from k-means calculations and used only for cluster purity calculations.
+The number of clusters k is selected by the user.
+After each iteration of the k-means algorithm, the program should write:
+- sum of distances between observations and centroids of assigned clusters (the sum is calculated as one value for all clusters)
+- purity of each cluster, i.e. what percentage of labels are in each cluster

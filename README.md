@@ -1,4 +1,4 @@
-# Machine_learning_Algorytms
+# MACHINE LEARNING ALGORYTMS
 
 # Knn Algorithm
 

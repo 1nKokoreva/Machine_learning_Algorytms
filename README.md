@@ -25,4 +25,12 @@ The Program should be tested on tiris data from the knn project(you can combine 
 The number of clusters k is selected by the user.
 After each iteration of the k-means algorithm, the program should write:
 - sum of distances between observations and centroids of assigned clusters (the sum is calculated as one value for all clusters)
-- purity of each cluster, i.e. what percentage of labels are in each cluster
+- purity of each cluster, i.e. what percentage of labels are in each cluster.
+
+--------------------------------
+--------------------------------
+
+# Huffman Coding Tree
+
+This project focuses on implementing the Huffman coding tree. The tree is used for data compression by assigning shorter codes to more frequently occurring symbols and longer codes to less frequently occurring symbols. 
+The implementation utilizes any representation of a priority queue.
